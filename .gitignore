@@ -29,6 +29,6 @@
 *.app
 
 #Specific
-adhesion
-adhesion.mk
+CellPolarD
+CellPolarD.mk
 
