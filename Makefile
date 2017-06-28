@@ -15,7 +15,7 @@ CellPolaRD: $(OBJ)
 all: CellPolaRD
 
 run: all
-	mpirun -np 4 ./gray_scott
+	mpirun -np 4 ./CellPolaRD
 
 .PHONY: clean all run
 
